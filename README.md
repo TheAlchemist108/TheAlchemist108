@@ -87,11 +87,11 @@
 
 ---
 
-## 🔥 Coding Habits
+## 📌 Highlights
 
 <div align="center">
 
-<img src="./metrics.plugin.habits.svg" width="100%" alt="Coding habits" />
+<img src="./metrics.plugin.highlights.svg" width="100%" alt="Lines of code, topics and starred repositories" />
 
 </div>
 
