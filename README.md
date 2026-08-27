@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:0EA5E9,100:10B981&height=200&section=header&text=Kaustubh%20Ramekar&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Data%20Analytics%20Specialist%20%7C%20Cloud%20%7C%20Python%20%26%20SQL&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Kaustubh Ramekar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:0EA5E9,100:10B981&height=210&section=header&text=Kaustubh%20Ramekar&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=35&desc=Data%20Analytics%20Specialist%20%7C%20Cloud%20%7C%20Python%20%26%20SQL&descAlign=50&descAlignY=55&descSize=18" width="100%" alt="Kaustubh Ramekar" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=650&lines=Driving+Insights+for+a+Greener+Future;100%2B+Power+BI+Dashboards+Delivered;SQL+%E2%80%A2+Python+%E2%80%A2+Azure+%E2%80%A2+AWS+%E2%80%A2+GenAI" alt="What I do" />
 
@@ -68,7 +68,6 @@
 
 <img src="./metrics.plugin.isocalendar.svg" width="100%" alt="Isometric commit calendar" />
 
-<img src="https://streak-stats.demolab.com?user=TheAlchemist108&theme=react&hide_border=true&background=0D1117&ring=0EA5E9&fire=F2C811&currStreakLabel=10B981" alt="Contribution streak" />
 
 </div>
 
@@ -88,11 +87,11 @@
 
 ---
 
-## 🏆 Achievements
+## 🔥 Coding Habits
 
 <div align="center">
 
-<img src="./metrics.plugin.achievements.svg" width="100%" alt="GitHub achievements" />
+<img src="./metrics.plugin.habits.svg" width="100%" alt="Coding habits" />
 
 </div>
 
