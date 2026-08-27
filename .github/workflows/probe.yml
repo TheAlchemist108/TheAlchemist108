@@ -1,0 +1,28 @@
+name: Probe
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        plugin: [calendar, topics, stars, notable, lines, activity]
+    steps:
+      - name: Probe ${{ matrix.plugin }}
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: TheAlchemist108
+          filename: probe.${{ matrix.plugin }}.svg
+          base: ""
+          dryrun: yes
+          config_timezone: Europe/London
+          plugin_calendar: ${{ matrix.plugin == 'calendar' }}
+          plugin_topics: ${{ matrix.plugin == 'topics' }}
+          plugin_stars: ${{ matrix.plugin == 'stars' }}
+          plugin_notable: ${{ matrix.plugin == 'notable' }}
+          plugin_lines: ${{ matrix.plugin == 'lines' }}
+          plugin_activity: ${{ matrix.plugin == 'activity' }}
